@@ -1,1 +1,4 @@
 this is a text file
+i have added some new line
+new line 1
+new line 2
